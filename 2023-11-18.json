@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Stevens",
+  "age": 49,
+  "address": {
+    "street": "Olozi View",
+    "city": "Zerwelka",
+    "state": "CT",
+    "zip": "96061"
+  },
+  "contact": {
+    "phone": "(773) 968-5699",
+    "servicePhone": "800224997"
+  },
+  "birthday": "1997-10-30T03:31:49.910Z",
+  "ip": "215.242.132.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaodugo ceda zohmej dubfi luboina ava ozo dalkozir hojojod ge hani vorlutu. Nehien ownare liz cu mobuflo ej dufwis lamju ot hezogbo babfuntep tad ad elhec uno ze evomo. Debsa koggijtak lubli genih ratiwha cewim teci ugiwubeb rojuki rofuge lud fifwa gois me. Gobjedos zempi buponpo nawuan almalbo vurwuili seli bafporud kuhac moras cu cumgagjag te jimtahi mibabcug. Tosoh kinkona ha aho sehulwa picaw cu vod wub corak fan zef cu ve jacup vikhas pefka.",
+    "bio": "Ruwle deta lubu kuffehmuj wajobvo pihhekot riwutcuc huob vehvueso beerpos ibiiwit zapupa zugzuwe rez egacid mok reh oh. Segufgip og pizkubdub rec pupve viwsen loznacac zinkizow iwi wep relag pojmi nocado zij ka. Uti ratbuge ew siegami jisegeif ja casu ethipu dij sag puun ila ickoruf rihete govlizkut. Rawdis rihonu tim deejafa job riat bemvisow set ozevuk boimezu ofiemzi imze la."
+  },
+  "apiKey": "fb20631b25c7242b624d0f4bc4e7d2050a9aa62a6125f8dd66408466d6cd934c",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
