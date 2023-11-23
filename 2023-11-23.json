@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Ford",
+  "age": 60,
+  "address": {
+    "street": "Wefop Place",
+    "city": "Delferu",
+    "state": "AK",
+    "zip": "68547"
+  },
+  "contact": {
+    "phone": "(616) 296-5160",
+    "servicePhone": "800388671"
+  },
+  "birthday": "1968-01-05T07:39:33.605Z",
+  "ip": "120.72.60.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Lujauk zajjokolo pa hukkacec legidic te piwi gadaha uro bav omkices fen sazo figa leujeti rolmu jopijne. Izute pakop luitsaf cilnamgur nivwog mit bowpa mehfi riw bicsanab gucenaw womados ibvi uredo lopla azimev ji. Zo hodvu mek narumrel nepirol agicu vu na lu rejnini guzho nop kub vuim ve cefic sipi tebpauge. Wu tobac di budofa haowawes vig hucfo onbukkel benap hop sor ozfit ba zujaja woizu. Azzudu puufo gogtoni medahuv vabil gol ciguf ogawidjos lul fi ocodod duki.",
+    "bio": "Domo okiwatam ce feom vacja at ab omu sojlu bomavuf hasho pabwad baatge. Suka visi miafa juesane melkeb kihesmes nulla pet citito lo cit zekeca bib keplo. Ecwov wu ralon voj lapiem pimliv si solpiv ijiwuto sacuwe owe vagij tor fubu wamukuv uwumusel luke."
+  },
+  "apiKey": "82566d8266c10f5942292f66b67d83e0000cb81181cbfdbcbacb0687718fd0ed",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
