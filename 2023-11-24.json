@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Jenkins",
+  "age": 53,
+  "address": {
+    "street": "Puwe Grove",
+    "city": "Arpobi",
+    "state": "TN",
+    "zip": "36292"
+  },
+  "contact": {
+    "phone": "(769) 306-5421",
+    "servicePhone": "800515428"
+  },
+  "birthday": "1964-11-26T21:17:01.461Z",
+  "ip": "191.106.143.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzemid ra fewrovjac zetudec neluh townep gomfa honuse re rih cag nibker lon seuv. Gesukor hipfob dorwihak lo fofbije ka usu oster gam dawjumob li hapenu pafubmo oz ho. Ge nakdi lus apcicno nam fihjawbec geg eta volauh cewo feres seipeciw ganepum dez.",
+    "bio": "Upenaw waip go jaivu ife ozeat tewgude fak ko atgo ig nin tos ahrojeso coas owcuwos riolci. Bat caoha risozriw vilupub verevif pijko lebbok ci vit ucozalse uturin mofzate alripsih otiwer omcejo nelfepal ceslofpef. Vo cakipgi zi pa hid deneada wezi li uzeniama setedru ikabaccow cedludiz jadine noniko nebreb tiwbozu. Ribanotu icos an upe pacso okilojbo poipvow tij av gi lepegup tuhtucwid."
+  },
+  "apiKey": "7854f1794a3a0d69c05b1e563b6ac828d18ecdbb91f1bd3e0cf610e6ecfa4d8e",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
