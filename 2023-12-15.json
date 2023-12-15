@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Ellis",
+  "age": 20,
+  "address": {
+    "street": "Gebbeh Plaza",
+    "city": "Jemowhej",
+    "state": "KY",
+    "zip": "84470"
+  },
+  "contact": {
+    "phone": "(685) 882-6981",
+    "servicePhone": "800785733"
+  },
+  "birthday": "1979-06-17T06:34:52.620Z",
+  "ip": "42.28.253.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Ami luvlepiv sawjemo nujani fo pud amu oseage pu jisa juselajo ogagankoj. Pibus linjoes jonozan me ize dum tod bi zupdudli warzojnak lif cisa pugebvok hor. Vigu giogakod hiw mur us fagha ehapelipa usalesgo nalwaguj tootsef ociligfu ci zivzo ituhonsom wala. Mazecope edimok soziw meofu wobu bezav gasna darhosa cibmekto meudbuf fo ekovoki pufo hip su babep. Lahi laemo pivifde hud zos dadhejah mohoga eloka sokohpaz apur uvo siuko ojga iw buvuzun talu kopkibola cir. Voladnob ifzozbos nan dotvo ogijo umi pidac hep cujvo tu op feiwnu jedrik.",
+    "bio": "Saodudu bitnasgu wu popud bihfaf hutim zutumgu vied muwu zojaru zotcoric teazbeb tuf muniw pahdu zaz gonas. Wisabu hekuriumo fis ag ze edmopaw zuzsukju pu fiwuno jirtehgef apvudro pul mod wa ojalawi tegnew. Lijutrik pik sal kerrewa duw obanemogi relikim wevuci nap zoado go fi gaddial er atuhipur siudvu vanuz vuswigem. Ogves zudla loz zadceipe ono za kuknun tavicbop esiwuk bephom ovkir med tiajima vef bacozko uliso. Ceh iretu boswi as boti webehut jutozum oli ne inooziuna dic hisla sacsiv obi. Ewuelomat onuhad dafvi dikuz ozi rolwaj cu zenugu modad fugu jelabahuv vuwbarkot hivevhe."
+  },
+  "apiKey": "4e9d0e5f1a9a261757b5aa95eda982bd29ec6239a9aeedc90173d9bd1e7fd19b",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
