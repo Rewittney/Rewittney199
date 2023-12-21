@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Love",
+  "age": 33,
+  "address": {
+    "street": "Ojab Pass",
+    "city": "Roscujso",
+    "state": "ID",
+    "zip": "88819"
+  },
+  "contact": {
+    "phone": "(777) 282-8522",
+    "servicePhone": "800721732"
+  },
+  "birthday": "1965-03-12T20:09:12.124Z",
+  "ip": "99.102.51.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Wooz few juw lo ijosijuz fejupiz budkavut tedju sujisnib lajesmo dakaz nihes ehoilopa zuweja da genkuci pujjuj diruz. Luh inluzze vife ur hakwu siluwuz hako detmis izwafbu ralod ro efnelu pu kikbikca re davjucub jewboka. Tisve pago mu ma roza epsoflis lehe ufacu gel nazap ho bo joksum ecevol to vebes ho. Wugvapod pofruk na ni jikun devku it wo jujitki bevcuow upcogdop suhiweb jeanuun jutmedwif segeh lijef lo mosaaw. Mebguhfu wegool delreb ceolotej marga bapurog ovu roc huggew suj guta visisro dik fatuz dicobaja cepipolaf je.",
+    "bio": "Pelbepov ci bibibun demi fadzi mot fehhik peg kupa civtikpi li reda cutujces fovhegjiv di lotloatu bi wolzuk. Kawaj kauktek wecce puvi lijaun ofra ke cacvif ca nogbuthop ta miotago vacvulru po itvar refir zolruk hofuda. Avuru ahidoz emusudid iceibico bicwo godsewu ut rira ketipoid timul secopcuc sas ateguj setu itirupdo uw ewha kaara."
+  },
+  "apiKey": "869b8c2449153c207a8ddf78f771293df195f4e755915c21967134372d5e9711",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
