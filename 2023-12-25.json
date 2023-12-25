@@ -1,0 +1,26 @@
+{
+  "name": "Lura Daniel",
+  "age": 61,
+  "address": {
+    "street": "Ogruh Drive",
+    "city": "Danmavode",
+    "state": "GA",
+    "zip": "44639"
+  },
+  "contact": {
+    "phone": "(965) 391-2546",
+    "servicePhone": "800674498"
+  },
+  "birthday": "1960-04-01T02:04:23.006Z",
+  "ip": "56.215.41.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Nabzegez ilu mopcac tewuzain uko feizpow vam muaw dozi ut owa gid uzme. Gik mejwa mif kugfelu kob selecep viosa cuzwinob ifefi nudofa veb zid. Omaloh hu ke meegjo noatesuv upi du gud pebhebfel jammeh gako now.",
+    "bio": "Co opbaop om fum sofam vofodru pufkifcih fad cupaw suhro ikimzip zaha juwet dar. Zounmaw racuc ivnuroz pe gekog saju sovovued civ ha wobhemrod obkorjoj nopuz jehios udijorlak oboebcoc jeli puvi ledito. Onauno catektih wanpasop idze nopadfo sokecror zitbegse lot luvga lowomuwu kirur viofuj unwun lazimbu girpurtod ne idujomfal ulebo. Uri usu ewezi surdohi jew li moapi kohfo ke citowlug mon rat akohe jel."
+  },
+  "apiKey": "3b506e51ddaccb596e42915341599422ad5b727cb1a49cfda8ae990d8cc5f6b0",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
