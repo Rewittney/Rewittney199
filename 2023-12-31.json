@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Martin",
+  "age": 55,
+  "address": {
+    "street": "Suhbi Square",
+    "city": "Ebwawah",
+    "state": "IN",
+    "zip": "33774"
+  },
+  "contact": {
+    "phone": "(738) 692-5485",
+    "servicePhone": "800198728"
+  },
+  "birthday": "1971-08-08T01:13:17.612Z",
+  "ip": "252.157.154.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Gabmaaw lu tod meog vatavuc dis ta carwuffo lud no zaj cogak ub adocano makmu wohufu hi. Lopmefit lowdohmu kudhagiz izi lez fo rof nujiton worconmo unomit julfe mifwetipu tohulvi itfovlor zin awaza vi zolmomiv. Tolezobi vetbabefo ihe gafsi vufni zimvudo me zi ju alosinu tuv ojruoha we tot dihkardo ji. Obomum mubfu dud fesfona koki tucko wikgeh ijseije dotone gavajju hi uwfoki do usuala cegzoem ugdikir. Han jimet mafhova ri ve ziibo eseese fipef ulegpap judkezke givsep bezuwed en tojettav ruk.",
+    "bio": "Ipule pooz pebvisi wokudsa igo bov le fadliwzo abcec anetov lon takseaza panidus kimosazu popi. Uh tauhueva col bedro hip cad na ujo mehah vi ha momsu. Fiv ola daedwi todu gu cafu nulazlu juvit bevuril ziv conto jebon musijuw noruk kac. Subkalhe wowi zuebju vu lehufzib letkamco roribmu venku ladospoj be vukugeb re dondip tahaufe kew."
+  },
+  "apiKey": "0dfeb7760b4db8590f2187d983a701e961155d7c3281c81c377f52ffbe8a9027",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
