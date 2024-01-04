@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Townsend",
+  "age": 23,
+  "address": {
+    "street": "Duezi View",
+    "city": "Kazbuoc",
+    "state": "DC",
+    "zip": "61915"
+  },
+  "contact": {
+    "phone": "(287) 259-3816",
+    "servicePhone": "800875318"
+  },
+  "birthday": "1998-01-07T01:59:21.538Z",
+  "ip": "201.133.85.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Pej vimi nihuhvu zuz walecafen itna fu dovnir sivletpaw zalol murec mijpook nezmed. Dookevig ritet jutvelwa ekah as vu jupip dablaput bima feb tiz ezhun moasu ke dowlinad alpujaz ekavi. Cosod gukovi cin poj wi wugoser rolbohin ju itojifo maese kole icube rushebis. Puovi sosoamu lope ta wu tazpuow id mivavlek kefi jak iw fa kebefwa atruhotu.",
+    "bio": "Wiw egucob bufmevin rowi mezaweh ocodu uzuruti fopingub tubrilo ut ijo caguge av god luna pazu. Ce du hedos gakhaobe lowivu ro la fik ic wuf ovico durwahi iplikfo det luvfod deje. Fav ez isito cuwufu wuoti duakarig ehi nescicbeb bo umcep kihuwam nu pikona ra fadiz itcanwa."
+  },
+  "apiKey": "5d9cb499f2fedc4398267afbde01eb9029d5b29b3093b1ff03e1edd1e00d5f46",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
