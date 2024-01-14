@@ -1,0 +1,26 @@
+{
+  "name": "Mary Figueroa",
+  "age": 60,
+  "address": {
+    "street": "Hola Place",
+    "city": "Jolisiz",
+    "state": "DE",
+    "zip": "38081"
+  },
+  "contact": {
+    "phone": "(771) 232-7556",
+    "servicePhone": "800345287"
+  },
+  "birthday": "1968-08-18T12:44:07.924Z",
+  "ip": "181.52.234.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Cur gununajo tor ferlegu wunur cemligi ebiji zo tovuk cizogop wajup weg keafegec dehoc loze arsud. Jacamib oranaz fugvu inmaciv tulok oweuwe bumfed ful centidzib sof hahupwo opu dat azihev nehufeg fimogsiw ped vefam. Zeca niej enu cap aratemet vemvus niruk giraglo hot wuk izsir vovica tuge zo. Veri idzeral lupo hu asiavowir finoidi uhnu ze boredem liehrew bin uke go ge ido gavze. Pila meuzguf vu seckucu jusju pu roki ne se suavijo ofiokole lez tiwsab hi hi dab. Mu de efufif esorojca paj pebiim pegpop af ektir levgul ad ot buasope ob do.",
+    "bio": "Iro aj goviw giw ewaobje ojoejpa zu abizoju elu ac od cacium denaha se ogihahwig zawuvese. Du suv licgihga vi afamac ozimepuh dadreloga lu ehgehbip lufabe fuduni daiso muwfidob go mivmiv rabmilpaf wurobop jiljarnu. Zev boona uv set unejen ap nezu kok jalmu jovmuv je ulreh feupsab tamapre ammacwak cierred. Ogecucud ulde nevci kakuwha dunlupom vafuomo tezufub kow kujbu napfake farba zujcu zubi cunimojoj."
+  },
+  "apiKey": "c218bc193288f6c8fcaa80507284eb8807d7a5ef28d7b66812bfed7a84132f81",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
