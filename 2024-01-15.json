@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Waters",
+  "age": 22,
+  "address": {
+    "street": "Wersuh River",
+    "city": "Elegipohu",
+    "state": "AR",
+    "zip": "26032"
+  },
+  "contact": {
+    "phone": "(531) 711-3355",
+    "servicePhone": "800112671"
+  },
+  "birthday": "1965-08-22T03:37:17.923Z",
+  "ip": "52.237.183.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Sunsu ku sin mo jowvoti bi ece aj orhosa opeziuce otkasde ged de hum. Feh kugrig azsud ernirmiw jome wah ib se hi pig ho ribok. Fa obeobi eda uluzagna raveda ro gal wasbura umudeuf imsec dikkanlu pulosus semolre ced lavize.",
+    "bio": "Betdida aj bobe subsum fogi bibsi vupviugi onbot bopeje fo zud pi ra lekkomje bugiw pobzisi cawijod. Nefeki puhad raohlor he akaahu bamze tikmin da fu li ujo tak cikfipi tizez al pejvaphim. Itacun uliiko defasaki mibaduwug et gouri gipuh macamvo mizhon ezzowgus wone muw mib daoti rilsiv ocome vuur. Ecudi padvac udeco hu mopuca es afuleeb usigehu lumhasep dal ed nopkif evejetip siolzoz sogke beg uc."
+  },
+  "apiKey": "e1b5627879de1d51a43a1de9806586860542231617ea648e2abc1929d3f66068",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
