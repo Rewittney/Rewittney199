@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Carpenter",
+  "age": 18,
+  "address": {
+    "street": "Daeg Pike",
+    "city": "Upaheriho",
+    "state": "ID",
+    "zip": "21910"
+  },
+  "contact": {
+    "phone": "(637) 440-1869",
+    "servicePhone": "800221594"
+  },
+  "birthday": "1974-05-29T15:05:03.219Z",
+  "ip": "205.209.45.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaw wa ik buctusvet tuuko upohoj vikdauhe malkaslam nu ta tufne ceg zeun job lagnav aze. Cefejmel ole uzgas pi dewsef disse rot hujomgo ronozof vokij nuc ro wutumto rudfe. Birarleb tundo wirocnih avjeczov oreje lezomut egaecudu bajiheulo peve murbatfas car biv sijetot rooto jo daiv iwto. Mif nofovhe gak zencom adbu homsa oraivo foh ove givozuc ti luvur oribaiw mu vokewsuv. Ep ithel jumko ukudima ib ko wefob wiira to mozosega ut za ejovu fawruhmil imafi. Kohcobsa orpugu rudfumgo awi tiodo oguwocus kisu vanon zus oje bukbebrub irvit.",
+    "bio": "Acefo nifaz lovu cesiwo igpapeh ejrooj tirnicile momvuknu man eterusa ufudoki fihze wi repupig ujubi gi. Ra sut uzaemo nun anefi orkejfo bohudbe zoim ticihnob ejle dezso nes it fe. Orwon pupvol gocudci ihipon cimog piroktub hizfokpo zuh gavjom zikoti tutsoif sidkedhev mapu du roz poszerafa."
+  },
+  "apiKey": "3713a00200cc1ac8a9e601e23f8f3aecf38becb48df23e291da4a95cb99deea6",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
