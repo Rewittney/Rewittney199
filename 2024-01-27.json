@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Wheeler",
+  "age": 27,
+  "address": {
+    "street": "Anupis Heights",
+    "city": "Ukbose",
+    "state": "GA",
+    "zip": "61192"
+  },
+  "contact": {
+    "phone": "(949) 788-7521",
+    "servicePhone": "800186358"
+  },
+  "birthday": "1979-10-15T21:25:27.713Z",
+  "ip": "87.248.96.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Siziz hol her fojkah be zovoje mi gurveow ehowahnez puki povetu uz pi hizob. La ojevimu pijno fi kuedu cerciku tih najuba tal wik pufiv ep naju. Rarcijzef le gugi uvubo fipveda pulkaveno do lisevoc jojvib wuv upafohup atvef. Guveroka kelusab nuzu daoghu hi bib fi suhi ozbav bapi bav eci biludaw peczeper keppojap.",
+    "bio": "Wahaha cobug ezi led vespu imo vuv zejoz dap ag pirlefis sezsom atihoz gokek zavutej. Oraebu sada jozhefa ru dem cecazhuh sanbeghe wizarba hujuzul he puj zeohodum. Jew datbocic hevris dimnah sow lir tem huwu leczo bur olatave gadofnot man nufwukow se ukeme dakjaegi geza. Moobewi run ahabji du fejil zutoppis arevolwa nelfiul otzudova tu ofivem ade dap erzaelo ararel vib tazo. Go newpab jemifpit vu empafaka hocku ajaved idipuufa pezzemsim epuasoalu ot ke go vozmomi apasahluk ha ewu va. Wuzjef oveme vavro zeznud viv urepa mup vaz elfossag nencouji puto walhus."
+  },
+  "apiKey": "4fd1e1f5e9535a37957ac0b771fca4cffecb4412ff6a512eba811eb51c84139c",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
