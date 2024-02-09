@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Reid",
+  "age": 25,
+  "address": {
+    "street": "Kemod Grove",
+    "city": "Rijegvi",
+    "state": "CO",
+    "zip": "47030"
+  },
+  "contact": {
+    "phone": "(878) 416-1184",
+    "servicePhone": "800956689"
+  },
+  "birthday": "1974-12-04T12:00:55.643Z",
+  "ip": "126.70.252.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Neldo ba om mug ub usefiawe egad lajnim tezesman hoj bor ukreak cuhu ebrun. Hevof ritaew zervosal imve ow gepumiha camfapve cavoza ti azu pulsu ih mag huvi. Ucozip nica di ka nediz hesed figfi digworu cidcotku af noudlu iharuup cag imgo rij okrewpi mospe.",
+    "bio": "Ta gicdo nukiciw uhtis kiaj jawufeje hi komsiru sew dihit zeewmed su lisalwe ehez vezatsol fegitec isaigo bac. Ru be fej tucbi gem bajowu otiopade ogduiwu firvufebe opouhakus ritojke wihnarul. Cukbid bokbikcam demi ko her ragufef debdi fip lu usieb eveza peipe. Vehvupbom use pi unidazfur uduufjog oricadaf pe ahlig ezused pakmajvi ojdawem cez tecdepig wo ej melosof. Ti zec to bat sih tutsa nahvir nan ewbor agocovus fetzognik fik sinopkag ukiga zaddur."
+  },
+  "apiKey": "4fd34f247998bd975a4e6719a752bd086a6d45156aed2707c69352857929ddbe",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
