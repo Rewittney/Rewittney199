@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Rodriquez",
+  "age": 19,
+  "address": {
+    "street": "Hohi View",
+    "city": "Ukufemoku",
+    "state": "LA",
+    "zip": "94658"
+  },
+  "contact": {
+    "phone": "(400) 860-2655",
+    "servicePhone": "800965594"
+  },
+  "birthday": "1987-04-23T07:51:36.475Z",
+  "ip": "71.72.30.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Na ruekwoh senuuko govad adasev jujipaeju de wewca ena wuotu fugoib damota jo umusi. Vevgu ja woomo dawfa ufo zipifoano ow sosros pu feipo goabgam himihu rehikebo mab ge fo calo. Gud hubiz lofsugsu zapozter horhuvu osso ihmu elebikgo vuk dugfumvo etadazod iz ic panami didaba toabu.",
+    "bio": "Nestobseg ok eca fobopa da waf guzho wuresrev viszajem juc zu lam wet peko lubjos jiha. Cin powe ti wi vihpek wizci bewzuskih revderbad senikzuc kaddu hufo me guvogug fitor gikofon kejsa bernis. Bilfeiga cuebkim su adumaas utgeruz lalalris tikhuza gubpo podi dow hagutpen je ruhpu makzu muohtol burap. Ur fosulicet coz hov bekvu ho mujuf larijuada aw midim zepu cir uf vof he be."
+  },
+  "apiKey": "adfa30865817da18198f57601abdbea60ec05a897d65a2d8c6ea0e24c1930c27",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
