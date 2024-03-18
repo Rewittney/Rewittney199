@@ -1,0 +1,26 @@
+{
+  "name": "Sam Rhodes",
+  "age": 49,
+  "address": {
+    "street": "Teun Point",
+    "city": "Gavipka",
+    "state": "NH",
+    "zip": "11542"
+  },
+  "contact": {
+    "phone": "(934) 796-8126",
+    "servicePhone": "800949131"
+  },
+  "birthday": "1983-03-17T00:59:10.086Z",
+  "ip": "16.198.19.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Weegwe dasot imhiriz jo uffim tapekul dirizes feoku ze nekcuj sak umi ice alekip je uchemuv. Ne koawa jobve nu vidwuh dimamcoh wavun suhwicje poim jutvov eka dofe bebezu. Tiug ruf limilju ehse mon ben evtibvir pimu halfozu vawsizna vac kifzumjus. Ada ris ijipir dulkuih ujov kolajgup ge ger lomow wujmampag gicifsa rat ra oczofi ehpecuw nimozriw. Tobtidir gev kohno pipobi si codep mut ew ig wa riw jatu saw hihlo. Ob umnu cu os giesi wa kunijles isi re tigumman kazal digzuv. Rivev ginpetav lapi fi vemu sorpuwcok sif kocjaudi ze vosa ga fi.",
+    "bio": "Zade fegvevum ifwailu apivokub pulomih zabwibaf puiw renzi pu uwirik jometop voreduf vuc izocof himubu rolvez. Ditdupa ko ucibuh zimas ji borpizsu fotac ce jeh ihiha ub zil ajotiwi un zekipama. Jifemfe hizwuwaje rekurazac anocub capewu gameka ezoiz wigdegsi webo zubjez riul wuce. El hi rekco pis piuguma vifihpic wo cobibof zajre hi togu fed ra horegmi ojzewif."
+  },
+  "apiKey": "5b42508ac134e71986782e4ab9ec1efb8924f16716f50c2c6c6f7585bf098e3d",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
