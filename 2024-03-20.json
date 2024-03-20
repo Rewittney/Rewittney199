@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Collier",
+  "age": 18,
+  "address": {
+    "street": "Jive Heights",
+    "city": "Acidutri",
+    "state": "IL",
+    "zip": "80584"
+  },
+  "contact": {
+    "phone": "(815) 597-6934",
+    "servicePhone": "800799179"
+  },
+  "birthday": "1960-02-07T21:00:14.009Z",
+  "ip": "63.25.120.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipuvow saiw se ruejeew lu til ric bismoenu jah cugaf wipbu nuc ge at idusej aggemili lompadsed. Pa ojne zazlanek enuzu vupo feabit osuvoma zumzesduz pav wular be av jukoftes mudgec zove zilulcu. Uj asnuev egcud obi faj ti ruw vekizgo vejawa liokjez tu afubajib cokticu ful ogu dij ululaj. Kace ulaave fal cumivpu rihhol hodto debocuno is ase tik ziclolo aleba togef rez evejo busapza visegu.",
+    "bio": "Lusur je foplel veh ju wanjehcew vu luso vigale ti calo kos urugi hifuwejo bebuafu. Jahgiw benasuwu bozomcol he tido icu ohziis fe ihku fozho etukasvuh azobiez ba geopi ihaiz co. Aju fub te duzvac fub ket unjaer wa na pedopa gake va meiniudi capedeemo fatamva. Omavili cig muhzadet wogbenud hi kepvaehu rucab raruah ma lewwij odbor bawrinat dohufgo puvmiuf bikhajsu. Buvbo ludwe ci wigmor napifsi nijew ohade nozi oko zokahga cagi leve huz icakeej uwata gepo do."
+  },
+  "apiKey": "94b946cb93d9cc012707f658f7588d74ea23bf9208fed01801835f5f2d23cd3d",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
