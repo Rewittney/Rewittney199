@@ -1,0 +1,26 @@
+{
+  "name": "Ora Chambers",
+  "age": 59,
+  "address": {
+    "street": "Fajuw Park",
+    "city": "Upicela",
+    "state": "PA",
+    "zip": "05204"
+  },
+  "contact": {
+    "phone": "(710) 269-5857",
+    "servicePhone": "800789226"
+  },
+  "birthday": "1970-08-01T03:13:55.983Z",
+  "ip": "125.222.238.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Torhokoc rej abeguc wi uv sidaug des ulolet pefihrav unpufko gipjodi gipu puba fah barhe vuba calmaat ret. Kivulu luapa lopuzru pebuflov ekwa puzsebti fosmize cahmorki gauvavu onufila hebdi ak ka ujikodev zidlujif licacoj vu. Co kenec duv heknahog ec vu ro lol gel jena mafloufa begiri curcuap caru tokol.",
+    "bio": "Liv tihcatu keuj vepgu uz li docihuk topni vo jip ged rutowhu dufo mesirjow. Gov hal tunosuew cirikuwur cirfuta havazuhep ictaror owatebdol omsejod atu wovzu peise un diuraguh nu re il hu. Zon ciwa matwi ef wuwre boj ijiafaga uf zipeaf zigila es niot sel moihocac co cuj ari ipidej."
+  },
+  "apiKey": "9d18eb942da2d69c69e06b5e403d3240c5d0af3a00531468be7e93813219af11",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
